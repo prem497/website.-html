@@ -1,0 +1,40 @@
+# website.-html
+<!DOCTYPE html>
+<html Lang ="en">
+<head>
+     
+     <title>solution</title>
+</head>
+<body>
+
+    <a href="https://www.google.com" >
+    click here
+    <img src ="images/google.12jpng" alt="">
+    </a>
+    
+    <a href="https://www.youtube.com" >
+    click here
+    <img src ="images/bing13.jpeg" alt="">
+    
+    </a>
+    
+    <ol>
+      
+      <a href="https://www.google.com" >
+         
+          <li>google</li>
+          
+        </a>
+        
+       
+       <a href="https://www.youtube.com" >
+       
+           <li>youtube</li>
+        
+        </a>
+        
+      </ol>
+</body>
+</html>
+      
+    
